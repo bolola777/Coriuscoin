@@ -1,0 +1,2 @@
+# Coriuscoin
+Coriuscoin
