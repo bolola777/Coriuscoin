@@ -1,2 +1,3 @@
 # Coriuscoin
 Coriuscoin
+Corius
